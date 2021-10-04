@@ -33,11 +33,12 @@ class lesson1 {
         int value = 99;
         if (value <= 0) {
             System.out.println("Красный");
-        if (value >= 100) {
-            System.out.println("Желтый");
-        } else {System.out.println("Зеленый");
-
         }
+        if (value <= 100) {
+            System.out.println("Желтый");
+        }
+        if (value > 100) {
+            System.out.println("Зеленый");
         }
 
     }
