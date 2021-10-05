@@ -3,9 +3,9 @@
 // 3. Создайте метод printColor() в теле которого задайте int переменную value и инициализируйте ее любым значением. Если value меньше 0 (0 включительно), то в консоль метод должен вывести сообщение “Красный”, если лежит в пределах от 0 (0 исключительно) до 100 (100 включительно), то “Желтый”, если больше 100 (100 исключительно) - “Зеленый”;
 // 4. Создайте метод compareNumbers(), в теле которого объявите две int переменные a и b, и инициализируйте их любыми значениями, которыми захотите. Если a больше или равно b, то необходимо вывести в консоль сообщение “a >= b”, в противном случае “a < b”;
 
-class lesson1 {
+class Lesson1 {
 	public static void main(String[] args) {
-	    printThreeWords();
+	printThreeWords();
         checkSumSign(); 
         printColor();
         compareNumbers();   
@@ -13,8 +13,8 @@ class lesson1 {
 
 	static void printThreeWords() {
 		System.out.println("Orange");
-        System.out.println("Banana");
-        System.out.println("Apple");
+        	System.out.println("Banana");
+        	System.out.println("Apple");
 	}
 
     static void checkSumSign() {
