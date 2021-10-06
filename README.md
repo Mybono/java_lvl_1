@@ -14,6 +14,8 @@
 [![telegram][logotelegram]][telegram]
 [![linkedin][logolinkedin]][linkedin]
 
+![](https://github.com/Mybono/Mybono/blob/main/assets/java%20wp.jpeg "wp")
+
 
 [telegram]: https://t.me/Benagraph
 [logotelegram]: https://github.com/Mybono/Mybono/blob/main/assets/telegran%2035%20px.png
