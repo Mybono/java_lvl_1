@@ -19,7 +19,7 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Mybono/java_lvl_1)
 
 
-[telegram]: https://t.me/Benagraph
+[telegram]: https://t.me/def4fun
 [logotelegram]: https://github.com/Mybono/Mybono/blob/main/assets/telegran%2035%20px.png
 [linkedin]: http://linkedin.com/def-say-hello
 [logolinkedin]: https://github.com/Mybono/Mybono/blob/main/assets/linedin%2035px.png
