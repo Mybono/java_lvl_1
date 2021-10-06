@@ -16,7 +16,7 @@
 
 ![](https://github.com/Mybono/Mybono/blob/main/assets/java%20wp.jpeg "wp")
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Mybono.Mybono.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Mybono/java_lvl_1)
 
 
 [telegram]: https://t.me/Benagraph
