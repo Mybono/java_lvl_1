@@ -6,13 +6,13 @@
 
 class lesson2 {
     public static void main(String[] args) {
-        System.out.println("The sum is " + (isRangeSum(11, 10)? "true" : "false"));
-        // System.out.println("The number is " + (compareNumbers(9)? "Positive" : "Negative"));
+        System.out.println("Task 1: " + (isRangeSum(11, 10)? "true" : "false"));
+        // System.out.println(compareNumbers(9)? "Positive" : "Negative"));
         compareNumbers(); 
-        System.out.println("The number is " + (task3(-1)? "true" : "false"));
+        System.out.println("Task 3: " + (task3(-1)? "true" : "false"));
         printLine("Hi", 2);
         // System.out.println(printLine("Hi", 2));
-        System.out.println(doleapYear(2024));
+        System.out.println("Task 5: " + (doleapYear(2024)));
     }
 /** task.1
 * Написать метод, принимающий на вход два целых числа и проверяющий,
@@ -32,9 +32,9 @@ class lesson2 {
     static void compareNumbers() {
         int a = 9;
         if (a >= 0) {
-            System.out.println(a + " is positive");
+            System.out.println("Task 2: " + a + " is positive");
         } else {
-            System.out.println(a + " is negative");
+            System.out.println("Task 2: " + a + " is negative");
         }
     }
         
@@ -54,7 +54,7 @@ class lesson2 {
 */
     static void printLine(String line, int n) {
         for (int i = 0; i < n; i++)
-            System.out.println(line);
+            System.out.println("Task 4: " + line);
     }
 /** task.5
 * Написать метод, который определяет, является ли год високосным,
