@@ -12,7 +12,7 @@ class lesson2 {
         System.out.println("The number is " + (task3(-1)? "true" : "false"));
         printLine("Hi", 2);
         // System.out.println(printLine("Hi", 2));
-        System.out.println(leapYear(2024));
+        System.out.println(doleapYear(2024));
     }
 /** task.1
 * Написать метод, принимающий на вход два целых числа и проверяющий,
@@ -62,7 +62,7 @@ class lesson2 {
 * Каждый 4-й год является високосным, кроме каждого 100-го, 
 * при этом каждый 400-й – високосный.
 */
-    static boolean leapYear(int year) {
+    static boolean doleapYear(int year) {
         return year % 100 != 0 && year % 4 == 0 || year % 400 ==0;
     }
 }
