@@ -13,7 +13,7 @@
 class lesson1 {
 	public static void main(String[] args) {
 	printThreeWords();
-        System.out.println("The sum is " + (checkSumSign(5, -6)? "positive" : "negative"));
+        System.out.println("The sum is " + (isSumPositive(5, -6)? "positive" : "negative"));
         printColor();
         compareNumbers();   
 	}
@@ -24,7 +24,7 @@ class lesson1 {
         System.out.println("Apple");
 	}
 
-    static boolean checkSumSign(int a, int b) {
+    static boolean isSumPositive(int a, int b) {
         return a + b >= 0;
         }
 
