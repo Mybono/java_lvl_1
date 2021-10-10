@@ -1,6 +1,6 @@
 ### Java. Уровень 1 / Курс от GeekBrains
 
-+ [Lesson 1 / HW 1](https://github.com/Mybono/java_lvl_1/blob/main/lesson1.java)
++ [Lesson 1 / HW 1](https://github.com/Mybono/java_lvl_1/blob/main/hw1.java)
 + [Lesson 2 / HW 2](https://github.com/Mybono/java_lvl_1/blob/main/hw2.java)
 + [Lesson 3 / HW 3]()
 + [Lesson 4 / HW 4]()
