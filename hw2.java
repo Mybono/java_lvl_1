@@ -6,22 +6,29 @@
 
 class lesson2 {
     public static void main(String[] args) {
-        System.out.println("Task 1: " + (isRangeSum(11, 10)? "true" : "false"));
-        // System.out.println(compareNumbers(9)? "Positive" : "Negative"));
-        compareNumbers(); 
-        System.out.println("Task 3: " + (task3(-1)? "true" : "false"));
+        System.out.println(isBetween10And20(10, -2));
+        System.out.println(isBetween10And20(12, 5));
+        System.out.println(isBetween10And20(20, 1));
+
+        isPositiveOrNegative(-1); 
+        isPositiveOrNegative(0);
+        isPositiveOrNegative(1);
+
+        System.out.println(isNegativOrPositive(-1));
+        System.out.println(isNegativOrPositive(1));
+        System.out.println(isNegativOrPositive(0));
+
         printLine("Hi", 2);
-        // System.out.println(printLine("Hi", 2));
-        System.out.println("Task 5: " + (doleapYear(2024)));
+
+        System.out.println(doleapYear(2024));
     }
 /** task.1
 * Написать метод, принимающий на вход два целых числа и проверяющий,
 * что их сумма лежит в пределах от 10 до 20 (включительно),
 * если да – вернуть true, в противном случае – false.
 */ 
-    static boolean isRangeSum(int a, int b) {
-        int res = a + b;
-        return res > 9 && res < 21;
+    static boolean isBetween10And20(int a, int b) {
+        return a + b >=10 && a + b <=20;
     }
 
 /** task.2
@@ -29,13 +36,8 @@ class lesson2 {
 * метод должен напечатать в консоль, положительное ли число передали
 * или отрицательное. Замечание: ноль считаем положительным числом.
 */
-    static void compareNumbers() {
-        int a = 9;
-        if (a >= 0) {
-            System.out.println("Task 2: " + a + " is positive");
-        } else {
-            System.out.println("Task 2: " + a + " is negative");
-        }
+    static void isPositiveOrNegative(int a) {
+            System.out.println(a >= 0? "Positive" : "Negative");
     }
         
 /** task.3
@@ -43,8 +45,8 @@ class lesson2 {
 * Метод должен вернуть true, если число отрицательное, 
 * и вернуть false если положительное.
 */
-    static boolean task3(int c) {
-        return c <= 0;
+    static boolean isNegativOrPositive(int a) {
+        return a < 0;
     }
 
 /** task.4
@@ -54,7 +56,7 @@ class lesson2 {
 */
     static void printLine(String line, int n) {
         for (int i = 0; i < n; i++)
-            System.out.println("Task 4: " + line);
+            System.out.println(line);
     }
 /** task.5
 * Написать метод, который определяет, является ли год високосным,
@@ -66,3 +68,4 @@ class lesson2 {
         return year % 100 != 0 && year % 4 == 0 || year % 400 ==0;
     }
 }
+
