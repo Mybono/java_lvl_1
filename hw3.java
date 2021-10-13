@@ -18,8 +18,6 @@ class hw3 {
         task4();
         System.out.println("\nTask 5: ");
         task5(2, 3);
-        // System.out.println("\nTask 6: ");
-        // task6();
     }
 
 /** Task 1
