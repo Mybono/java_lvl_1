@@ -4,7 +4,7 @@
 + [Lesson 2 / HW 2](https://github.com/Mybono/java_lvl_1/blob/main/hw2.java)
 + [Lesson 3 / HW 3](https://github.com/Mybono/java_lvl_1/blob/main/hw3.java)
 + [Lesson 4 / HW 4](https://github.com/Mybono/java_lvl_1/blob/main/TicTacToe.java)
-+ [Lesson 5 / HW 5]()
++ [Lesson 5 / HW 5](https://github.com/Mybono/java_lvl_1/blob/main/Lesson6.java)
 + [Lesson 6 / HW 6]()
 + [Lesson 7 / HW 7]()
 + [Lesson 8 / HW 8]()
