@@ -1,4 +1,4 @@
-### Java. Уровень 1 / Курс от GeekBrains
+### Java. Уровень 1
 
 + [Lesson 1 / HW 1](https://github.com/Mybono/java_lvl_1/blob/main/lesson1.md)
 + [Lesson 2 / HW 2](https://github.com/Mybono/java_lvl_1/blob/main/lesson2.md)
