@@ -1,7 +1,7 @@
 ### Java. Уровень 1 / Курс от GeekBrains
 
 + [Lesson 1 / HW 1](https://github.com/Mybono/java_lvl_1/blob/main/lesson1.md)
-+ [Lesson 2 / HW 2](https://github.com/Mybono/java_lvl_1/blob/main/hw2.java)
++ [Lesson 2 / HW 2](https://github.com/Mybono/java_lvl_1/blob/main/lesson2.md)
 + [Lesson 3 / HW 3](https://github.com/Mybono/java_lvl_1/blob/main/hw3.java)
 + [Lesson 4 / HW 4](https://github.com/Mybono/java_lvl_1/blob/main/TicTacToe.java)
 + [Lesson 5 / HW 5](https://github.com/Mybono/java_lvl_1/blob/main/Lesson5.java)
