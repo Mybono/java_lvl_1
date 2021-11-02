@@ -4,7 +4,7 @@
 + Lesson 2 / [Video](https://youtu.be/TPeNezZ3QzY) / [Homework](https://github.com/Mybono/java_lvl_1/blob/main/hw2.java) / [Readme](https://docs.google.com/document/d/1ANRkOZqy0T92fmQBlNbbASjrshP1u_Xc7bIJz4Y8GiA/) / [Presentation](https://docs.google.com/presentation/d/1sSV8NH4Gw98NXVMpnZiWZwQtoqqqvGgtfRvt--O7PpQ/edit?usp=sharing)
 + Lesson 3 / [Video](https://youtu.be/sWTlp9SwoaM) / [Homework](https://github.com/Mybono/java_lvl_1/blob/main/hw3.java) / [Readme](https://docs.google.com/document/d/1goVNIwy_3cORIio9pP9vzSIJlnlfzm6dyaBXUWKItLM/edit)
 + Lesson 4 / [Video](https://youtu.be/wmiuHoFWwWc) / [Homework](https://github.com/Mybono/java_lvl_1/blob/main/Employee.java) / [ReadMe](https://docs.google.com/document/d/1rJGxhEnuk_JwNkSI506BbEr0SRdKwwJDnF3p4mvurUE/edit?usp=sharing) / [Presentation](https://docs.google.com/presentation/d/1qYDxZPe_mHiEojmlNsUvYLp-a-DMjWGdTka9H_vuHaQ/edit?usp=sharing)
-+ [Lesson 5 / HW 5](https://github.com/Mybono/java_lvl_1/blob/main/Lesson5.java)
++ Lesson 5 / [Video](https://youtu.be/j-YIYz9lNAE) / [Homework](https://github.com/Mybono/java_lvl_1/blob/main/Lesson5.java) / [ReadMe](https://docs.google.com/document/d/1tol4bns34jR254p7mX_nzYO-agOdhFrZMmdpexERepo/edit?usp=sharing) / [Presentation](https://docs.google.com/presentation/d/12N_AS_FNCcjqgoIljECM4sm6taXa-U1jMPBW41lU4E8/edit?usp=sharing)
 + [Lesson 6 / HW 6](https://github.com/Mybono/java_lvl_1/blob/main/Lesson6.java)
 + [Lesson 7 / HW 7](https://github.com/Mybono/java_lvl_1/blob/main/Lesson7.java)
 + [Lesson 8 / HW 8]()
