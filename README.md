@@ -1,6 +1,6 @@
 ### Java. Уровень 1
 
-+ [Lesson 1 / HW 1](https://github.com/Mybono/java_lvl_1/blob/main/lesson1.md)
++ Lesson 1 / [Video](https://www.youtube.com/watch?v=2imszjDxfC0) / [Homework](https://github.com/Mybono/java_lvl_1/blob/main/hw1.java) / [Readme](https://docs.google.com/document/d/1ANRkOZqy0T92fmQBlNbbASjrshP1u_Xc7bIJz4Y8GiA/)
 + [Lesson 2 / HW 2](https://github.com/Mybono/java_lvl_1/blob/main/lesson2.md)
 + [Lesson 3 / HW 3](https://github.com/Mybono/java_lvl_1/blob/main/lesson3.md)
 + [Lesson 4 / HW 4](https://github.com/Mybono/java_lvl_1/blob/main/TicTacToe.java)
