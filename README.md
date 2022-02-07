@@ -17,7 +17,7 @@
 - Дополнительные материалы
 - Используемая литература
 - Подсказки по домашнему заданию
-+ Lesson 2 / [Video](https://youtu.be/TPeNezZ3QzY) / [Homework](https://github.com/Mybono/java_lvl_1/blob/main/hw2.java) / [Readme](https://docs.google.com/document/d/1ANRkOZqy0T92fmQBlNbbASjrshP1u_Xc7bIJz4Y8GiA/) / [Presentation](https://docs.google.com/presentation/d/1sSV8NH4Gw98NXVMpnZiWZwQtoqqqvGgtfRvt--O7PpQ/edit?usp=sharing)
++ Lesson 2 / [Video](https://youtu.be/TPeNezZ3QzY) / [Homework](https://github.com/Mybono/java_lvl_1/blob/main/hw2.java) / [Readme](https://docs.google.com/document/d/1hrkVlbK2qvua6d_TkWSHk9ComBBx1L1DRsWTzAsEuPo/edit) / [Presentation](https://docs.google.com/presentation/d/1sSV8NH4Gw98NXVMpnZiWZwQtoqqqvGgtfRvt--O7PpQ/edit?usp=sharing)
 - Методы
 - Оператор switch
 - Циклы for
